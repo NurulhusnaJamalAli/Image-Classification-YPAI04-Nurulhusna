@@ -31,6 +31,14 @@
  Capstone_Proj3.h5: The trained model saved in the .h5 format.
  Capstone_Proj3_model.pkl: Pickle file containing the label encoder used to map segmentation labels.
 
+ I used this 2 images to test inside the code to get the correct prediction:
+
+ <img width="242" alt="image" src="https://github.com/NurulhusnaJamalAli/Image-Classification-YPAI04-Nurulhusna/assets/141206939/ec543f8d-f191-450f-a70c-a5ac6c6e7c9f">
+ 
+
+ <img width="322" alt="image" src="https://github.com/NurulhusnaJamalAli/Image-Classification-YPAI04-Nurulhusna/assets/141206939/606d4e2b-67e2-40e1-95f9-6868f3ad8739">
+
+
  ## Acknowledgments
 The datasets used in this project are sourced from Kaggle. Credit goes to the original author:
  [Concrete Crack Images for Classification](https://data.mendeley.com/datasets/5y9wdsg2zt/2).

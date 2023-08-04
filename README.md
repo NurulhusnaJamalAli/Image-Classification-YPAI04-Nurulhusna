@@ -40,7 +40,7 @@
 
 
  ## Acknowledgments
-The datasets used in this project are sourced from Kaggle. Credit goes to the original author:
+The datasets used in this project are sourced from this link provided. Credit goes to the original author:
  [Concrete Crack Images for Classification](https://data.mendeley.com/datasets/5y9wdsg2zt/2).
 
 ## License

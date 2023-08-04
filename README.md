@@ -2,7 +2,7 @@
  This is a Capstone Project titled Image Classification by Nurulhusna (YPAI04)
 
 ## Concrete Crack Classification 
- This project aims to develop an AI model for classifying concrete images as either having cracks or being crack-free. The objective is to identify potential cracks in concrete  structures early on to ensure the safety and durability of buildings. 
+ This project aims to develop an Deep Learning model for classifying concrete images as either having cracks or being crack-free. The objective is to identify potential cracks in concrete  structures early on to ensure the safety and durability of buildings. 
 
  ## Dataset Source
  The dataset used for this project can be found here. [[Concrete Crack Images for Classification](https://data.mendeley.com/datasets/5y9wdsg2zt/2)]

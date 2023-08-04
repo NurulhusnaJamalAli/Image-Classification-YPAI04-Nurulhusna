@@ -21,7 +21,7 @@
    - Scikit-learn: For data preprocessing and evaluation metrics.
    - TensorBoard: For visualizing the training process and performance.
 
- 3. Dataset: Download the dataset from the given link: [Concrete Crack Images for Classification](https://data.mendeley.com/public-files/datasets/5y9wdsg2zt/files/8a70d8a5-bce9-4291-bab9-b48cfb3e87c3/file_downloaded). Place the dataset in an      appropriate folder within your project directory, such as `data/`.
+ 3. Dataset: Download the dataset from the given link: [Concrete Crack Images for Classification](https://data.mendeley.com/public-files/datasets/5y9wdsg2zt/files/8a70d8a5-bce9-4291-bab9-b48cfb3e87c3/file_downloaded). Place the dataset in an appropriate folder within your project directory, such as `data/`.
 
  ## Project Structure
  The project is structured as follows:
